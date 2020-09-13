@@ -1,0 +1,3 @@
+TOKEN = '1249895200:AAGanPuW2B4aQNdnZtEiFaw3CBk8OVJqhQk'
+CHANNEL_NAME = '@v_kuznets0v_channel'
+MY_ID = '306297181'
